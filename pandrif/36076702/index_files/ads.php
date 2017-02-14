@@ -1,0 +1,1 @@
+function GetSkinBannerID() { return 13562; } 
